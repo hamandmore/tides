@@ -11,7 +11,7 @@ Tides skill for AI agents, allows access to ocean tide model and predictions
 ### Via ClawdHub
 
 ```bash
-clawdhub install hamandmore/tides
+npx clawhub install tides
 ```
 
 ## Usage
